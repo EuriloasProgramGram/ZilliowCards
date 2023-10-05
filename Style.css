@@ -56,3 +56,11 @@
 a{
     text-decoration:none;
 }
+.favorite{
+    position: absolute;
+    padding: 4px 320px;
+}
+.star{
+    position: absolute;
+    padding: 4px 320px;
+}
